@@ -6,8 +6,8 @@ Checkout this gitrepo and cd to the directory where the deployment.mf lives and 
 
   kubectl get pods
   
-  When you see the following:
-  emilyjiang@Emilys-MBP Deployment % kubectl get pods
+
+emilyjiang@Emilys-MBP Deployment % kubectl get pods
 NAME                                         READY   STATUS    RESTARTS   AGE
 12factor-app-a-deployment-7c85569d77-2qmv4   2/2     Running   0          26s
 12factor-app-a-deployment-7c85569d77-xmlm8   2/2     Running   0          26s
